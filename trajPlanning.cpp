@@ -1,4 +1,4 @@
-//Source file file with the implementations of the trajectory planning for the Smart Controls projects
+
 
 #include "trajPlanning.h"
 
